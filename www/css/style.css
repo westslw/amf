@@ -191,7 +191,7 @@ h1, h2, h3, h4, h5 {
 
 article h1, h2.primary, h2.secondary {
 	background: url(../img/bg_headline_blue.jpg) no-repeat left 11px;
-	font-size: 38px;
+	font-size: 30px;
 	font-family: "CartoGothicStdBook", Arial, sans-serif;
 	border-bottom: #b1d8f1 3px solid; 
 	padding: 10px 0px 10px 14px;
