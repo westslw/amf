@@ -101,7 +101,38 @@ body > .container.home {
 	top: 220px; 
 	font-size: 32px;
 	text-align: right; }
-	
+
+.feat_photos div {
+  -webkit-transition: border-color linear 0.2s;
+  -moz-transition: border-color linear 0.2s;
+  -ms-transition: border-color linear 0.2s;
+  -o-transition: border-color linear 0.2s;
+  transition: border-color linear 0.2s;
+	position:absolute;
+	border-color:rgba(255,255,255,0);
+	border-width:4px;
+	border-style:solid;
+	top:0px; margin:-4px 0 0 -4px; }
+.feat_photos div:hover {
+  -webkit-transition: border-color linear 0.2s;
+  -moz-transition: border-color linear 0.2s;
+  -ms-transition: border-color linear 0.2s;
+  -o-transition: border-color linear 0.2s;
+  transition: border-color linear 0.2s;
+  border-color:rgba(255,255,255,100);
+  border-style:solid; }
+
+#p1 { width:199px; height:199px; left:0px; }
+#p2 { width:265px; height:199px; left:200px; }
+#p3 { width:112px; height:199px; left:466px; }
+#p4 { width:265px; height:199px; left:579px; }
+#p5 { width:93px; height:199px; left:845px; }
+#p6 { width:238px; height:200px; left:0px; top:200px; }
+#p7 { width:174px; height:200px; left:239px; top:200px; }
+#p8 { width:200px; height:200px; left:414px; top:200px; }
+#p9 { width:200px; height:200px; left:615px; top:200px; }
+#p10{ width:122px; height:200px; left:816px; top:200px; }
+
 .row {
 	margin: 20px 0px 0px 0px; }
 
