@@ -308,7 +308,9 @@ footer {
 footer p {
 	color: #fff;
 	text-shadow: -1px -1px 1px #7a7c7c; }
-	
+
+footer a:link, footer a:visited { color:white; text-decoration:underline; }
+footer a:hover { color:#0069d6; }
 footer p.left{
 	float: left;
 	width: 50%; }
