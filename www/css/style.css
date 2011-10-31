@@ -316,10 +316,12 @@ footer a:link, footer a:visited { color:white; text-decoration:underline; }
 footer a:hover { color:#0069d6; }
 footer p.left{
 	float: left;
+	margin-top:-5px;
 	width: 50%; }
 	
 footer p.right {
 	float: right;
+	margin-top:2px;
 	width: 50%;
 	text-align: right;
 	font-size: 18px;
