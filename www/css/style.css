@@ -263,7 +263,10 @@ article p {
 ul, ol {
 	margin: 0px 0px 20px 10px;
 	padding: 0px 0px 0px 20px; }
-	
+
+dt { margin-top:18px; }
+dt:first-child { margin-top:0; }
+
 li {
 	color: #333;
 	margin-bottom: 5px; }
