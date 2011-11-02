@@ -103,22 +103,22 @@ body > .container.home {
 	text-align: right; }
 
 .feat_photos div {
-  -webkit-transition: border-color linear 0.2s;
-  -moz-transition: border-color linear 0.2s;
-  -ms-transition: border-color linear 0.2s;
-  -o-transition: border-color linear 0.2s;
-  transition: border-color linear 0.2s;
+  -webkit-transition: border-color linear 0.15s;
+  -moz-transition: border-color linear 0.15s;
+  -ms-transition: border-color linear 0.15s;
+  -o-transition: border-color linear 0.15s;
+  transition: border-color linear 0.15s;
 	position:absolute;
 	border-color:rgba(255,255,255,0);
-	border-width:4px;
+	border-width:6px;
 	border-style:solid;
-	top:0px; margin:-4px 0 0 -4px; }
+	top:0px; margin:-6px 0 0 -6px; }
 .feat_photos div:hover {
-  -webkit-transition: border-color linear 0.2s;
-  -moz-transition: border-color linear 0.2s;
-  -ms-transition: border-color linear 0.2s;
-  -o-transition: border-color linear 0.2s;
-  transition: border-color linear 0.2s;
+  -webkit-transition: border-color linear 0.15s;
+  -moz-transition: border-color linear 0.15s;
+  -ms-transition: border-color linear 0.15s;
+  -o-transition: border-color linear 0.15s;
+  transition: border-color linear 0.15s;
   border-color:rgba(255,255,255,100);
   border-style:solid; }
 
