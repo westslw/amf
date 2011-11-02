@@ -231,14 +231,14 @@ article h1, h2.primary, h2.secondary {
 h2.secondary {
 	background: url(../img/bg_headline_gray.jpg) no-repeat left 11px;
 	border-bottom: #bcbdbd 3px solid;  }
-	
+/*
 h2 a {
 	font-size: 12px;
 	font-family: Verdana, sans-serif;
 	color: #333;
 	text-decoration: underline;
 	float: right; }
-	
+	*/
 	
 article h2 {
 	font-size: 20px;
