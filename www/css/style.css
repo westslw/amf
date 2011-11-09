@@ -15,9 +15,6 @@ body > .container.home {
 .container.home [class*="span"] {
 	margin-bottom: 0px; }
 	
-.row [class*="span"]:last-child {
-	margin-right: 0px; }
-	
 .gradient.primary {
 	background: #70a3d1; /* Old browsers */
 	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
@@ -111,7 +108,7 @@ body > .container.home {
 	position:absolute;
 	border-color:rgba(255,255,255,0);
 	border-width:6px;
-	border-style:solid;
+	border-style:none;
 	top:0px; margin:-6px 0 0 -6px; }
 .feat_photos div:hover {
   -webkit-transition: border-color linear 0.15s;
@@ -119,7 +116,7 @@ body > .container.home {
   -ms-transition: border-color linear 0.15s;
   -o-transition: border-color linear 0.15s;
   transition: border-color linear 0.15s;
-  border-color:rgba(255,255,255,100);
+  border-color:#fff;
   border-style:solid; }
 
 #p1 { width:199px; height:199px; left:0px; }
@@ -134,7 +131,7 @@ body > .container.home {
 #p10{ width:122px; height:200px; left:816px; top:200px; }
 
 .row {
-	margin: 20px 0px 0px 0px; }
+	margin-top: 20px; }
 
 .row:first-child {
 	margin-top:0;

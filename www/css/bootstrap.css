@@ -267,7 +267,7 @@ a:hover {
 [class*="span"] {
   display: inline;
   float: left;
-  margin-right: 20px;
+  margin-left: 20px;
   margin-bottom: 30px;
 }
 .span1 {
