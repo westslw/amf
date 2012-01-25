@@ -348,7 +348,7 @@ figure.left.out {
 }
 
 
-figcaption { display:block; padding:6px 10px 8px; font-size:0.8em;}
+figcaption { display:block; padding:6px 10px 8px; font-size:0.8em; text-align:center;}
 
 figure img { width:100%; display:block; margin:0;}
 
