@@ -77,17 +77,17 @@ body > .container.home {
 	background: url(../img/bg_nav_active.png) repeat-x left bottom; }
 	
 /* announcement */
-	
+	/*
 	.hanging-tab { display: none; }
 	body.announce-tab .hanging-tab { display:block;}
 	body.announce-tab .topbar .container { margin-top: 70px; }
-
-	.simple-link { display:none; }
+  */
+	.simple-link { display:block; }
 	body.announce-link .simple-link { display: block;}
-
+  /*
 	.shout { display:none; }
 	body.announce-shout .shout { display: block;}
-
+	*/
 	/* hanging tab */
 	.hanging-tab {
 		background: #70a3d1;
