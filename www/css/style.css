@@ -114,7 +114,9 @@ body > .container.home {
 	/* Simple Link */
 	.simple-link {
 	  float:right;
-	  margin:-38px 20px 0 0;
+	  top:-40px;
+	  right:20px;
+	  position:absolute;
 	}
 	.simple-link a {
 		display:block;
